@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, Git!");
 
+            int x = 100;
             int y = 500;
         }
     }
